@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mobsizanin
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning IaC & CI/CD
+- 👀 Cyber Security Solution Engineer
+- 🌱 Seoul, South Korea
 - 📫 mobsizanin@gmail.com
 
 <!---
